@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Eyyub!
 
-💻 **Frontend Developer** | React, TypeScript, Redux Toolkit  
+💻 **Frontend Developer** | React, TypeScript, Redux Toolkit, Javascript, Tailwind Css, Scss, Bootstrap, Hook Form
 📚 Currently learning **C#** for backend development  
 
 ---
