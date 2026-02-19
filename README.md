@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Eyyub!
 
 💻 **Frontend Developer** | React, TypeScript, Redux Toolkit, Javascript, Tailwind Css, Scss, Bootstrap, Hook Form
-📚 Currently learning **C#** for backend development  
+
 
 ---
 
@@ -19,7 +19,7 @@ Performance optimization, UI/UX experience, and modern technologies
 ---
 
 ### 🛠️ Technologies I Work With
-- 💻 React, TypeScript, JavaScript  
+- 💻 C#, React, TypeScript, JavaScript  
 - 🎨 HTML, CSS, MUI  
 - 🔧 Redux Toolkit, React Hook Form, Axios  
 - 🛢️ Firebase, REST API
